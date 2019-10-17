@@ -1,0 +1,112 @@
+[
+   {
+      "COD_PROD": "000001",
+      "DES_PROD": "PRODUCTO 1",
+      "COD_CATE": "01",
+      "C": [
+         {
+            "DES_CATE": "CATEGORIA 1",
+            "ESTADO": "ACTIVO"
+         }
+      ]
+   },
+   {
+      "COD_PROD": "000002",
+      "DES_PROD": "PRODUCTO 2",
+      "COD_CATE": "01",
+      "C": [
+         {
+            "DES_CATE": "CATEGORIA 1",
+            "ESTADO": "ACTIVO"
+         }
+      ]
+   },
+   {
+      "COD_PROD": "000003",
+      "DES_PROD": "PRODUCTO 3",
+      "COD_CATE": "02",
+      "C": [
+         {
+            "DES_CATE": "CATEGORIA 2",
+            "ESTADO": "ACTIVO"
+         }
+      ]
+   },
+   {
+      "COD_PROD": "000004",
+      "DES_PROD": "PRODUCTO 4",
+      "COD_CATE": "02",
+      "C": [
+         {
+            "DES_CATE": "CATEGORIA 2",
+            "ESTADO": "ACTIVO"
+         }
+      ]
+   },
+   {
+      "COD_PROD": "000005",
+      "DES_PROD": "PRODUCTO 5",
+      "COD_CATE": "03",
+      "C": [
+         {
+            "DES_CATE": "CATEGORIA 3",
+            "ESTADO": "ACTIVO"
+         }
+      ]
+   },
+   {
+      "COD_PROD": "000006",
+      "DES_PROD": "PRODUCTO 6",
+      "COD_CATE": "03",
+      "C": [
+         {
+            "DES_CATE": "CATEGORIA 3",
+            "ESTADO": "ACTIVO"
+         }
+      ]
+   },
+   {
+      "COD_PROD": "000007",
+      "DES_PROD": "PRODUCTO 7",
+      "COD_CATE": "04",
+      "C": [
+         {
+            "DES_CATE": "CATEGORIA 4",
+            "ESTADO": "ACTIVO"
+         }
+      ]
+   },
+   {
+      "COD_PROD": "000008",
+      "DES_PROD": "PRODUCTO 8",
+      "COD_CATE": "04",
+      "C": [
+         {
+            "DES_CATE": "CATEGORIA 4",
+            "ESTADO": "ACTIVO"
+         }
+      ]
+   },
+   {
+      "COD_PROD": "000009",
+      "DES_PROD": "PRODUCTO 9",
+      "COD_CATE": "01",
+      "C": [
+         {
+            "DES_CATE": "CATEGORIA 1",
+            "ESTADO": "ACTIVO"
+         }
+      ]
+   },
+   {
+      "COD_PROD": "000010",
+      "DES_PROD": "PRODUCTO 10",
+      "COD_CATE": "03",
+      "C": [
+         {
+            "DES_CATE": "CATEGORIA 3",
+            "ESTADO": "ACTIVO"
+         }
+      ]
+   }
+]
